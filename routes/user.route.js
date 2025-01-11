@@ -43,6 +43,7 @@ const router = Router();
  *       400:
  *         description: Validation error
  */
+
 router.post(
   "/signup",
   upload.single("profilePicture"), // Use multer middleware to handle file upload
