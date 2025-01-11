@@ -10,7 +10,7 @@ const swaggerOptions = {
     },
     servers: [
       {
-        url: 'https://bakcendassignment.onrender.com/', 
+        url: 'https://bakcendassignment.onrender.com', 
       },
     ],
   },
